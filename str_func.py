@@ -1,4 +1,4 @@
 def func():
-string = input()
-return string
+string1 = input()
+return string1
 

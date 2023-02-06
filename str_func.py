@@ -3,3 +3,8 @@ def func():
   string1 = input()
   return string1.upper()
 
+''' принимает на вход строку и возвращает её с заглавными буквами каждого слова в строке'''
+def func_2():
+  string = input()
+  return string.title()
+

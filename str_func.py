@@ -1,4 +1,5 @@
+'''функция, которая принимает на вход строку и возвращает её, со всеми заглавными буквами'''
 def func():
-string1 = input()
-return string1
+  string1 = input()
+  return string1.upper()
 
